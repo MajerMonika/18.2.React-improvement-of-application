@@ -1,1 +1,1 @@
-# 18.2.Reacta-improvement-of-application
+# 18.2.React-improvement-of-application
